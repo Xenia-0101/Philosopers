@@ -2,6 +2,7 @@
 # define PHILOSOPHERS_H
 
 /* *** libraries *** */
+
 # include <unistd.h>
 # include <stdio.h>
 # include <stdlib.h>
