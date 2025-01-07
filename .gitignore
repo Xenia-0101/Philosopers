@@ -1,0 +1,4 @@
+*.out
+philosophers
+libft.a
+*.o
